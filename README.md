@@ -6,16 +6,13 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-🌱 I’m currently learning Competetive Coding.
-👯 I’m looking to collaborate on IOT projects using Arduino Uno.
-🤔 I’m looking for help with my Project of Smart Systems.
+🌱 I’m currently at Accenture Pvt. Ltd..
+👯 I’m looking to collaborate on PLSQL, SQL, JAVA EE , Web Projects etc.
+🤔 I’m working on building simpler solutions to interactive webpages and inclusion of AI in the process which can be game chager.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
-🌱 I’m currently learning Competetive Coding.
-👯 I’m looking to collaborate on IOT projects using Arduino Uno.
-🤔 I’m looking for help with my Project of Smart Systems.
 <!-->
 
