@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
-I am Working at Accenture Pvt. Ltd. with an experience of 1 and half year. I have completed my Internship at Tata Consultancy Services.
-I am currenty working mostly using PLSQL. As well as I am trying to create Dynamic Web Projects. You can find simple projects in my profile. They are very simple and easy to learn.
+I am Working at Accenture Pvt. Ltd. as Packaged App Development Analyst with an experience of 2 years. I have completed my Internship at Tata Consultancy Services.
+I am currenty working mostly using PLSQL , Also GenAI tools like Github Copilot. As well as I am trying to create Dynamic Web Projects. You can find simple projects in my profile. They are very simple and easy to learn.
 Thank You for visiting.
 <!-->
 
